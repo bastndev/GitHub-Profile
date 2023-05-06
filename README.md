@@ -336,7 +336,7 @@ graph TD;
 ```bash
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{bastndev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p> 
 <br>
 </div>
 ```
@@ -524,3 +524,12 @@ graph TD;
 </div>
 <!--Final Projetos de Estudos Futuros - End Future Studies Projects-->  
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bastndev&style=for-the-badge">
+</a>
+
+
+  ## 💰 You can help me by Donating
+<a href="https://github.com/sponsors/bastndev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
