@@ -17,7 +17,7 @@
    ```bash
    ![Ashutosh's](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=discord_old_blurple)
    ```   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=discord_old_blurple)
+![Ashutosh's](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=discord_old_blurple)
 
 
 # Statistics 📈
