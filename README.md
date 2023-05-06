@@ -365,13 +365,60 @@ graph TD;
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🐛 Snyken 
+1. El primer titulo, solo copia el codigo
 ```bush
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ```
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+# 📷 Videos
+1. El primer titulo, solo copia el codigo
+```
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/-pWSQYpkkjk">
+<img src="https://i.ytimg.com/vi/wtm9ElrhI_A/sddefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/3GymExBkKjE">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+</table>
+```
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
+<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=wtm9ElrhI_A&ab_channel=Marhuire%E2%99%AA">
+<img src="https://acortar.link/14AKZg">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=wtm9ElrhI_A&ab_channel=Marhuire%E2%99%AA">
+<img src="https://i.ytimg.com/vi/wtm9ElrhI_A/sddefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+</table>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # ➕ PLus
+1. El primer titulo, solo copia el codigo
 <p align="center">
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastndev&show_icons=true&locale=es&theme=dark" alt="mperez2021" />
@@ -443,3 +490,37 @@ graph TD;
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
     <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 
+ <table border = "15">
+  <td align="center"><img align="center" alt="Max-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML</td>
+  <td align="center"><img align="center" alt="Max-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS</td>
+  <td align="center"><img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</td>
+  <td align="center"><img align="center" alt="Max-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">Java</td>
+  <td align="center"><img align="center" alt="Max-Data" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">Data Relational</td>
+  <td align="center"><img align="center" alt="Max-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">VS Code</td>
+  <td align="center"><img align="center" alt="Max-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">Wordpress</td>
+  <td align="center"><img align="center" alt="Max-Bp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">Bootstrap</td>
+ </table>
+
+</div>
+ <!--Final Conhecimento das Tecnologias - End Knowledge of Technologies--> 
+ 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
+ 
+ <!--Início da tabela e espessura da borda-->
+ <!--Inicial table and width border-->
+ <table border = "15">
+  <td align="center"><img align="center" alt="Max-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">TypeScript</td>
+  <td align="center"><img align="center" alt="Max-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">React</td>
+  <td align="center"><img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</td>
+  <td align="center"><img align="center" alt="Max-Ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">Angular</td> 
+  <td align="center"> <img align="center" alt="Max-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">Node</td>
+  <td align="center"> <img align="center" alt="Max-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">Tailwind</td>    
+  <td align="center"> <img align="center" alt="Max-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg">Dart</td>          
+  <td align="center"><img align="center" alt="Max-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">Spring Ecosystem</td>              
+  <td align="center"><img align="center" alt="Max-Flut" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">Flutter</td>                
+  </table>   
+ <!--Final da Tabela - End table-->
+</div>
+<!--Final Projetos de Estudos Futuros - End Future Studies Projects-->  
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
