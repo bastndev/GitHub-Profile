@@ -269,6 +269,7 @@ graph TD;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webflow.svg" width="48" title="Webflow">  
 <p/>
 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 🗺️ Map 
 1. El primer titulo, solo copia el codigo
 ```
@@ -324,6 +325,8 @@ graph TD;
   ]
 }
 ```
+
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 👁️ Views 
 1. El primer titulo, solo copia el codigo
 ```bash
@@ -341,24 +344,96 @@ graph TD;
 2. El primer titulo, solo copia el codigo
 
 ```bash
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://bastndev.com/discord)
 ![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
 
 ```
 
-
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://bastndev.com/discord)
 ![GitHub Followers](https://img.shields.io/github/followers/bastndev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/bastndev?style=social)
 
 3. El primer titulo, solo copia el codigo
+
+[Click Here](https://s01.flagcounter.com/more/X70) 👈 ``0D1117``
+
 <!--- Country ---> 
 <a href="https://github.com/bastndev"><img src="https://s01.flagcounter.com/countxl/41uN/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_250/viewers_3/labels_1/pageviews_0/flags_0/percent_1/" alt="@bastndev" border="0"></a>
 
-[![Build Status][]][Repo on GitHub Actions]
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/flutter/website/badge)](https://deps.dev/project/github/flutter%2Fwebsite)
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+# 🐛 Snyken 
+```bush
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+```
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+# ➕ PLus
+<p align="center">
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastndev&show_icons=true&locale=es&theme=dark" alt="mperez2021" />
 </p>
+<h3 align="left">Conocimientos</h3>
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Angular</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Java</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Aws</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            </td>
+           <td width="120px" align="center">
+            <span><strong>Spring Boot</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Typescript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+            </td>
+           <td width="80px" align="center">
+            <span><strong>Javascipt</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td> 
+        </tr>
+        <tr valign="top">
+           <td width="80px" align="center">
+            <span><strong>PostgreSQL</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+            </td>
+            <td width="150px" align="center">
+            <span><strong>React Js - Native</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>Firebase</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+            </td>
+             <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=YamoshiDev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
