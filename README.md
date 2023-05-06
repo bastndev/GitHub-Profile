@@ -378,18 +378,18 @@ graph TD;
 <table style="width:100%">
 <tr>
 <td>
-<a href="https://youtu.be/Kp4Mvapo5kc">
-<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=ZZYZ0zEHfPw&t=279s&ab_channel=Marhuire%E2%99%AA">
+<img src="https://i.ytimg.com/vi/ZZYZ0zEHfPw/maxresdefault.jpg">
 </a>
 </td>
 <td>
-<a href="https://youtu.be/-pWSQYpkkjk">
+<a href="https://www.youtube.com/watch?v=wtm9ElrhI_A&ab_channel=Marhuire%E2%99%AA">
+<img src="https://acortar.link/14AKZg">
+</a>
+</td>
+<td>
+<a href="https://www.youtube.com/watch?v=wtm9ElrhI_A&ab_channel=Marhuire%E2%99%AA">
 <img src="https://i.ytimg.com/vi/wtm9ElrhI_A/sddefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
 </a>
 </td>
 </tr>
