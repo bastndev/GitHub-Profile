@@ -9,11 +9,15 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
 # 📈 Statistics 
 1. El primer titulo, solo copia el codigo
+
    ```bash
-   ![Ashutosh's](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=discord_old_blurple)
+   <h1 align="center">Github Metrics </h1><p align="center">
+   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+   </p>
    ```   
+  <h1 align="center">Github Metrics </h1>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=discord_old_blurple" alt="Profile Summary Card" />
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
 </p>
 
 2. El primer titulo, solo copia el codigo
@@ -437,3 +441,5 @@ graph TD;
   <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
+    <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+
